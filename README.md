@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm kumar</h1>
 <h3 align="center">A passionate React js developer from India</h3>
-<img  align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fmshabeer786%2Fdevelop-your-application-with-react-js-and-react-native&psig=AOvVaw2APpLZcBq9UpGM_dnX_FzJ&ust=1677898953771000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDG_-rivv0CFQAAAAAdAAAAABAo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar570&label=Profile%20views&color=0e75b6&style=flat" alt="kumar570" /> </p>
 
