@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kumar</h1>
 <h3 align="center">A passionate React js developer from India</h3>
-<img src="https://github.com/Ganeshk750/Ganeshk750" alt="profile" width="400" align="right">
+<img src="https://outlane.co/now/new-shot-programmer-animation/" alt="profile" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar570&label=Profile%20views&color=0e75b6&style=flat" alt="kumar570" /> </p>
 
